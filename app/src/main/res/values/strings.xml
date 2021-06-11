@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Flight App</string>
+
+    <!-- Login -->
+    <string name="mail_title">E-mail</string>
+    <string name="password_title">Şifre</string>
+    <string name="remember_title">Beni Hatırla</string>
+    <string name="login_btn_title">Giriş Yap</string>
+
+</resources>
