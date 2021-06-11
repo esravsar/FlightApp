@@ -51,7 +51,8 @@
                 android:id="@+id/etEmail"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="@string/mail_title" />
+                android:hint="@string/mail_title"
+                android:inputType="textEmailAddress"/>
 
         </com.google.android.material.textfield.TextInputLayout>
 
@@ -67,7 +68,8 @@
                 android:id="@+id/etPassword"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="@string/password_title" />
+                android:hint="@string/password_title"
+                android:inputType="numberPassword"/>
 
         </com.google.android.material.textfield.TextInputLayout>
 
