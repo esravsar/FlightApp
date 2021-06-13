@@ -7,4 +7,8 @@
     <string name="remember_title">Beni Hatırla</string>
     <string name="login_btn_title">Giriş Yap</string>
 
+
+    <string name="unsuccessfull_login">Bilgileriniz hatalıdır. Lütfen bilgilerini kontrol ediniz.</string>
+
+
 </resources>
